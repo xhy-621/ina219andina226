@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=PB8 Pin=SW3-1
+Added Pin To Net: NetName=PB8 Pin=U1-16
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=SW2-1
+Added Pin To Net: NetName=PB9 Pin=U1-17
+Added Net: Name=PB9
+Added Pin To Net: NetName=PC15 Pin=SW4-1
+Added Pin To Net: NetName=PC15 Pin=U1-24
+Added Net: Name=PC15
+Added Room: Name=Sheet_1_2021-06-06

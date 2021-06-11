@@ -1,0 +1,15 @@
+Added Component: Designator=H2(XL4015)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C239342"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCEDA_Lib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "HDR-F-2.54_2x2"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net _1 Pin=H2-1
+Added Pin To Net: NetName=+5V Pin=H2-2
+Added Pin To Net: NetName=GND Pin=H2-3
+Added Pin To Net: NetName=GND Pin=H2-4
+Added Member To Class: ClassName=Sheet_1_2021-06-06 Member=Component H2 ÎÈÑ¹Ä£¿é
+Added Room: Name=Sheet_1_2021-06-06

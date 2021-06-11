@@ -1,0 +1,14 @@
+Added Component: Designator=SW1(SW-TH_SDDJE10700)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BOM_JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer"; Value = "ALPSALPINE(阿尔卑斯阿尔派)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Manufacturer Part"; Value = "SDDJE10700"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BOM_Supplier Part"; Value = "C358626"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contributor"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spicePre"; Value = "S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "spiceSymbolName"; Value = "SDDJE10700"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH2_1 Pin=SW1-1
+Added Pin To Net: NetName=+12V Pin=SW1-2
+Added Member To Class: ClassName=Sheet_1_2021-06-06 Member=Component SW1 电源开关
+Added Room: Name=Sheet_1_2021-06-06
